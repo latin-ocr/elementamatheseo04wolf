@@ -1,0 +1,105 @@
+'36 ELEMENTA GEOGRAPHIAE ET HYDROGRAPHIAE.
+
+3. In Ephemeridibus evolvantur dieS‚
+quando Sol loca ista Eclipticae at-
+tingit. Sic factum est ‚ quod pe-
+rebatur.
+
+E. gr. Halae Latitudo 510 32¹ (§. 60 ) a·
+deoque elevatio AEquatoris 38⁰ 28¹. Porro
+refractio ι’ 1 1⁹ , semidiameter Solis appa-
+rens 3 ι) 40⁰ circiter (§. 1 17 Astron. ). Er-
+go declinatio Solis Borealis quaefita 5⁰ 59'
+
+9⁰, cui fere 16⁰ ‘V' & 140 m? respondent.
+Ergo hoc anno 1714 umbra fuit corporis
+altitudini aequalis in ipso meridie die 6
+Aprilis & die 10 Septembris.
+
+PROBLEMA XXVI.
+
+167. Dato quolibet anni die ‚ quo
+Solts meridiani altitudo sitperat 450 ,
+determinare momenta diei, quibus um·
+bra altitudini corporis aequaltir.
+
+Rfisoturta
+
+1. Qodli ex 450 subducatur refraffio
+conveniens & Semidiameter Solis
+apparens , relinquetur altitudo
+vera centri Solis ad illud momen-
+tum , quo umbra altitudinicorpo-
+ris aequalis,
+
+2. Ad datum diem supputetur locus
+Solis ( §. 720Astron. ) & inde
+
+3. Qaeratur declinatio Solis ( §. 198
+Astron. ) , qua data
+
+4. Reperietur tempus quaefitum (§.216
+Astron. ).
+
+PROBLEMA XXVII.
+
+1 68. Dato quolibet anni die ‚ deter-
+minare Parallelum ‚ in quo Incola Ascii
+
+stent.
+
+R ε s o L u T 1 o.
+Ad diem datum supputetur locus So-
+
+lis (5. 720 Astron. ) δι inde ulterIus
+eruatur ejus declinatio (§. 198 Astron).
+Quoniam enim Sol ibi verticalis est ‚
+l ubi Incolae Ascii sunt (S. 125 Optic.);
+
+declinatio inventa eadem erit cum La-
+
+titudine locorum seu distantia Parallcli
+ab AEquatore quaefita.
+
+PROBLEMA XXVIII.
+
+169. Dato quolibet anni die, deter-
+minare Paraltelum , in quo Incolae Pe-
+rifcit'flunt.
+
+R E s o L U T 1 0.
+
+Qoniarn Incolae alicujus loci Peris- Τὼ ,
+cii fiunt, quando Sol primum ipsis non Eg. .
+occidit (ΒΛ ς8); Latitudo locorum seu
+elevatio Poli determinari debet , ubi
+Circulus diurnus Solis Horizontem in
+puncto infimo R tangit. Qaeratur
+ergo
+1. Ut in Problemate praecedente de-
+
+clinatio Solis AI seu Q.
+
+2. Quoniam PQ: ZR = 90⁰ (§.49.
+62 Astron. ) ς ex 90⁰ subtrahatur
+declinatio inventa Qi ε erit enim
+ZR--QR Ξ PR (§.88 Aridum),
+quae est elevatio Poli seu Latitu-
+do loci quaefita.
+
+PROBLEMA XXIX
+
+170. Determinare annidies ‚ qui..
+
+¹ bus Incolae in dato Zonoe frigidae loco
+
+Pertjciisimt.
+R ε s o L u τ 1 0.
+
+Ex resolutione Problematis praece-
+dentis patet, inveniendos effe anni dies‚‘
+quibus Sol ibidem non occidit , & de-
+
+clinationem Solis QR, quando primum
+non
+

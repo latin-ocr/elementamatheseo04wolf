@@ -1,0 +1,102 @@
+'68 ELEMENTA GEOGRAPHIAE ET HYDROGR’APHJAE..
+
+Est ergo BC 4¹ 47⁰ seu ς’ quam proxi-
+me. Etfi 10. 824 per mutationem Latitu-
+dinis seu Latitudinem in Parallelo vigesi-
+mo primo ad scrupula dena redu&am ‚ hoc
+est, per ι 26 multi-plices3 prodit Loxodro-
+mia ab AEquatore usque ad parallelum vi—
+gefiin-um primum 1364 quadrantum mil..
+liarium Germanicorum ‚ seu milliarium
+Italicorum.
+
+Senorrou,
+
+3 34. Tabulas Loxodromicas exhibent R1c-
+erotus( ο ), Ηεκιοοωυε (p) atque De-
+cuntes ( q ). Nobis sufficit fundamentum
+earumdem clare atque distinc'fe expofhiffi.
+
+P R o B L Ε M A L X.
+33 5. Dato Latere Mecodynaemico
+‚¹1¹- ΑΒ -ὶ- IK -ξ- HF , invenire Longitudi-
+fig·36·mm AD.
+
+'l'ab⁸
+
+Κεεοιυτῑο.
+
+Resolutio hujus problematis aetu jam
+continetur in resolutione Problematis
+ptaecedentis. Nimirum.
+
+1 . Mutatio Latitudinis G D multiplice-
+tur per 6, ut ad dena scrupula pri-
+ma reducatur.
+
+2. Per fastum divIdatur Latus Mecody-
+namicum ‚ ut prodeant milliaria
+Longitudinis mutationi Latitudinis
+decem scrupulorum respondentia.
+
+3. Milliaria haec Longitudinis in quoli-
+
+ᾗ bet parallelo convertantur in diffe-
+. · rentias Longitudinis eo , quern in
+praecedente problemate . exposui-
+
+ς mus modo ‚ atquein unam summam
+colligantur.
+
+- PROBLEMA LXI.
+336. Invenire arcum AEquatoris
+
+(ο) Geogr. Refwrm. lib. ιο. c. 29. f.4·7·7 & seqq.
+(Ῥ) In Curs. Mathem. Tom. 4. p. 434. δε seqq.
+(q) ln Mundo-Mathem. Tem. 3. f. 335 θείης,
+
+AD inter initium Loxodromiae AG in Tab
+
+AEquaetore Α &² Meridianum datum {11
+P D interceptum. 5,ξό-
+
+ResoLuT10.‚
+
+Sit arcus AEquatoris ΑΒΓ-κ, erit
+ejus differentiale =dx. Quoniam Me·
+ridianus PD, qui Loxodrorniam in G
+secat ‚ datur per- Latitudinem Patalleli'
+NAG5 fit Sinus Latitudinis Ξ] , erit
+differentiale *Latitudinis ‚ seu mutatio
+ejus instantanea = dy .· 5! ( 1 -——y2)
+
+· (§.153Anat.1·ffln.)‚ δε ejus cofinos,
+
+radius Paral‘leli ‚ ad quem navis perve=
+nit. Ξ xl (1—y2) (§.. 16 Trigon. ).
+Quodsi jam Meridianus ΡΙ) alteri PC
+intelligatur infinite propinqum, erit CI),
+:dx δε GF=dy2 §s (1·—y'·). Et quo-
+niam arcus ΕΟ parallelus ipsi HF per
+hypotb. arcus infinite parvi habentur
+pro lineolis restis ς erit angulus HGF
+angulo Loxodromico seu Rhumbico·
+GHO aequalis, Quamobrem cum an-
+gulus ad F rectus fit (§· 3 8 Anal.infin.)‚
+fi differentiale Latitudinis GF sumatur<
+pro Sinu τοῖο, erit arculus paralleli HF
+Tangens anguli Loxodromici (§.7.Tri-
+gon. ) ‚ consequenter , fi Tangens dica-
+turt, & Sinus totus seu radius AEqua-
+toris 1 , reperitur HF=tdy .· §l (1 ——y²)..
+Sunt vero arcus Paralleli H F &-
+AEquatoris (ΣΙ) inter se ut radii Paralle-
+li & AEquatoris (§· 138.412. Geomr).
+Habemus itaque
+
+ 
+
+¹ ² §s (1—y2)==dx: ν (ing-'555
+consequenter dx= 13ξῖ
+.. ,ἡ rm .- Ι Cum
+

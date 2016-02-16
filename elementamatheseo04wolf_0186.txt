@@ -1,0 +1,106 @@
+162
+
+anguli horarii in Horologio Meridio-
+nali cot-respondentis EAa.
+
+DEMONSTRATIO.
+
+In triangulis ΕΒΑ & EAa est , ut
+ΕΒ ad E'a5 ita Sinus totus ad Tangen-
+tem anguli horarii ΕΒΔ in Horologio
+AEquinonstiali, & ut EA ad Ea, ita
+Sinus totus ad Tangentem anguli ho-
+rarii ΕΑΔ in Horologio Meridionali
+(§. 40 Trigon.), consequenter EA.-
+EsszTang. Essa: Tang. ΕΑΔ (§. 199
+Arithm.) Sed ΕΒ = ΕΙ) (§. 54).
+Ergo EA ε ΕΙ) -π Tang. EBa: Tang.
+EAa ( §. 168 Arithm. ). Enimvero
+cum angulus ad D in Δ ΕΑΙ) fit rec-
+tus (§. 54), EA ad ΕΙ), ut Sinus
+totus ad Sinum anguli EAD seu ele-
+vationis AEquatoris < §. 33 Trigon.)
+Erg0‚ ut Sinus totus ad Sinum eleva-
+tionis AEquatoris seu Cosinum eleva—
+
+tionis poli, ita Tangens anguli horarii ·
+
+Essa in Horologio AEqninostiali ad Tan.
+gentem anguli horarii ΒΑΛ in Horolo-
+gio Meridionali ( §. 167 Arithmet. ).
+
+CoRoLLARIUM Ι.
+
+ς9. Per hoc Problema construi potest
+Tabula angulorum horarios-um sub data
+quacunque elevatione Poli.
+
+COROLLARIUM II.
+
+60. Ope hujus Tabulae construi potest
+Horologium Meridionale ‚ quemadmo-
+''dnn3 Horizontale construere docuimus (ᾗ.
+2 .
+ς CoRoLLARIUM ΙΙΙ.
+
+61. Quodsi ΑΕ sumatur pro Sinu toto,
+erunt E a, E b, E c , &c. Tangentes angu-
+lorum horariorum. Quare si ΑΕ pro ar-
+bitrio assumta dividatur in 1000 partes
+
+ELEMENTA GNoMoNICAE.·
+
+( ,οἵ 277 Geom. ) , ope Canonis Tangen:
+tium, ex illa scala in rectam GH transfer-
+ri possunt rerStae E a , E b, E c &c. conse.
+quenter Horologia Meridionalia majoris
+formae facillime construuntur z quodidern
+in Horizontali succedit( §- 5 2 ).
+
+-ScHoLtom
+
+62. Methodus haec ab anteriore( 5. 55 )
+differt‘z'n eo, quod ibidem Scala paretur ra-
+dium circuli AEquinoc'iialis ΕΒ dividendo in
+1000 partes, &⁹ hoc pasto ἁ calculo angulo—
+rum horariorum EAa, EAb, EAc διε. li-
+beremur ς fic ica quod restam ΑΕ , quae in
+praesente modo pro arbitrio affamitur , per
+Calculum eruere teneamur ( 5. 56 ).
+
+PROBLEMA IX.
+
+63. Horologium Septentrionale deli-
+neare-
+R ε s o L υ τ 1 ο.
+
+1. Ducatur Linea Meridiana AS ( §.T ’
+128 Astron. δ 3< ex A describaturf ²
+radio arbitrario circelluS.
+
+2. Fiat ad A angulus DAC elevationi
+AEquatoris aequalis &
+
+3. Ex C pro arbitrio assumto erigatur
+perpendicularis CD , quae occurrat
+ipsi AD in D.
+
+4. Fiat angulus CDE itidem elevationi
+AEquatoris aequalis ‚ ducaturque tec-
+ta DE ipsi ΑΕ in E occurrens,
+
+5. Fiat lB Ξ ΕΙ).
+
+6. Per I agatur reeta GH ipsam SB se-
+cans ad angulos rectos ὃς
+
+7. Ex centro Β, radio 113, describatur
+quadrans in sex partes aequales di·
+videndus,
+
+8. Per duo extrema divisionum puncta
+ex centro B ducantur rectae Bd &
+BH ipss GH occcurrentes in eg& Η,
+
+. atque
+

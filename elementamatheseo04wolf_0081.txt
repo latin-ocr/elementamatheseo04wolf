@@ -1,0 +1,115 @@
+Cap. XI.
+
+DEFINITIO LV.
+
+331. Tabulae Loxodromicae vocan-
+tur 2 in quibus ad dena scrupula pria
+
+ma fingulorum graduum quadrantis ‚ A
+
+quae Latitudines locorum metiuntur ‚
+exhibetur mutatio Longitudinis ὃς quan.
+titas itineris confecti in quolibet Rhom.
+
+bo seu Loxodromia.
+
+CoRoLLARIUM.
+
+sab, 332. Qoniam Rhombi oppositi in di-
+[11‚ rectum iacent ‚ adeoque Loxodrornia ea-
+''g-36· dem, five ex G in A, five ex A in G navi-
+ges; praeterea Rhombi aMeridiano aequali-
+ter distantes eundem angulum Loxodro-
+micum efficiunt (5-310 ); Tabulas Loxo-
+dromicas pro uno quadrante construi suffi-
+
+cit.
+PROBLEMA LIX.
+333. Tabulas Loxodromicas cons-
+tmere.
+R E s o L U T Ι ο.
+
+sab. 1. Tabula pro quolibet Rhombo divi-
+
+111. datur in tres columnas & in earum
+
+g.36. prima scribantur dena scrupula pri-
+ma ‚ initio fado εἰ O ὅ( fine in gra-‘-
+du70.
+
+2. Ex anguloRhombi & distantia Paral-
+lelorum HK, 10 minutorum ‚ quae-
+ratur iter confectum ΙΗ , subtra-
+hendo nempe a Lo'garithmo dena—
+rii unitate aucto , Cofinus anguli
+Rhombici Logarithmum , ut relin—
+quatur Logarithmus itineris confe-
+
+, &ti ’ Ι H in quadrantibus milliaris
+Germanici ( §. 319 ) aut milliari-
+bus Italicis ‚ quorum 60 conficiunt
+gradum, supputati.
+
+3. Logarithmo huic addatur Logarith-
+mus Sinus anguli Rhombici δε uni-
+
+DE LoxoDRoMIA. 671
+
+tas in loco finistimo deleatur, ut
+habeatur Logarithmus milliarium
+Longitudinis seu arcus Paralleli 11<
+in quadrantibus milliarium Ger·
+manicorum supputati (ς. 324 )‚
+
+4. Huic Logarithmo addatur Logarith.
+
+mus 36002& a summa auferatur
+Logarithmus quadrupli milliarium,
+vi §. 46 , uni gradui Paralleli in da-
+ta Latitudine respondentis .· quod
+relinquitur, est Logarithmus diffe-
+rentiae Longitudinis Β C in scrupu-
+lis secundis.
+
+ς. In altera columna Tabula? ponantur
+Longitudines Latitudinibus fingulis
+in prima comparentibus responden-
+tes & ex differentiis modo inventis
+aggregatae.
+
+6. In columna denique tertia ponatur
+longitudo itineris confetiti per con-
+tinuam additionem arcus AI vel 1H
+supra reperti (§. 314).
+
+E. gr. Quaeratur in Rhombo secundo ,
+qui cum meridiano efficit angulum 220 30¹,
+quantitas itineris IH ad mutationem Lati-
+
+tudinis 10 minutorum H K & differentia
+Longitudinis B C in parallelo vigesimo pri-
+m0, ubi gradus unus est 13 milliarium
+Germanicorum (546) seu 52 quadrantum·
+Erit
+
+Log. to audit. 1. 110000000
+Log. Cosin. 22⁰ 30! 99656153
+Log.‘.,3I H Ξ 10343847 ‚
+
+cui respondent 1 οῑὸὃξὲ.
+
+[οςὲᾗῃᾌ. 220 30'. 95828396
+
+..ι-...-
+
+*Log IK ε ιοόι7η43
+Log. 3600 Ξ 35563025
+Summa 41735268
+
+Log. 52 = 17160033
+
+Log.ssc ε 245752352
+
+cui in canone ‘respondIent ι 87. Est
+2
+

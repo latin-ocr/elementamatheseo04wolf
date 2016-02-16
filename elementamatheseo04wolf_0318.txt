@@ -1,0 +1,105 @@
+274 ELEMENTA ARCHITECTURAE MILITARIS'.
+
+plicavimus, modo reducantur: quemadmo-
+dum tentanti constabit.
+
+PROBLEMA XXVI,
+
+1 88. Msmire Fzguram irregularem,
+cujus latera non excedunt Latus exter-
+num Munimenti regularis, nec anguli
+sant acuti.
+
+RasorurIQ
+
+1. Eligatur aliqua Methodus , juxta
+
+quam Munitio fieri debet, note-
+’ turque quantitas linearum ad cleli-
+neationem necessariarum.
+
+2. Qraeratur per Regulam Trium ad
+Latus externum F=gurae regularis ,
+Latus externum irregularis ὃς quam-
+l-bet lineam notatam quarta pro-
+portionalis , ut prodeant lineae ad
+delineationem Munimenti irregu-
+laris neceffariae.
+
+E. gr. Sit muniendum Latus externum ir-
+regulare 96 perticarum , cui adjacet an-
+gulus ¹70 graduum ex una parte, ex al-
+tera 135 ‚ juxta Methodum Vaubanianam
+priorem, in qua perpendiculum Line-as
+defensionis determinans est 15 , fi angu-
+lus 120 gradus excedit, Facies vero 25 ‚
+supposito Latere externo 90 perticarum.
+Invenitur adeo in casu praesenti perpen-
+diculum 16, Facies 26} perticarum³⁴
+
+² Aliter.
+
+Tab. Ι.Ι Super Latere irregulari dato AB
+vm, ’ construatur Triangulum aequicru-
+
+R‘g.17. rum ΑΕΒ , cujus crus AC Lateri
+regulari ecquale.
+
+2. Fiat e. gr. in nostro casu CD per-
+
+pendiculo Lineas defensionum de-
+terminanti & (ΞΕ Faciei aequalis.
+
+3. Ducantur DF & EG ipfi AB pa-
+rallelae ( §. 258 (ἢθη).
+
+Qoniam CA: AB=CD2 DF:-
+CE: EG (§. 268 Geom.); erit DF
+perpendiculum, EG Facies Lateri ir-
+regulari AB respondens·
+
+CORoLLARIuM L
+
+189. Eodem modo* reperiuntur linea
+Lateri irregulari interno dato responden-
+tes, fi internum regulare detur.
+
+COROLLARIUM 11.
+
+¹90· Quoniam Latus externum in Mua
+nimentis maximis est 100, in minimis ve-
+
+ro perticarum 80 (§.145); evidens est,
+Latera ad muniendum apta non esse de-
+bere majora 100, nec minora 80 perticis.
+
+CoaoLLARIUM HL
+
+191. Quoniam nullum Triangulum re-
+gulariter muniri potest (§. 8ι),· anguli ad> ²
+muniendum apti minimum reffi aut ,
+quod praestat, resto majores fintneceffe est.
+
+PROBLEMA XXVII.
+
+192. Lineam munire, qux 160 vel
+240 perticis non minor, nec major 100 ’
+vel 300.
+
+RESOLUTIO,
+
+Qoniam Latus externum est mini-
+mum 80, ad summum 100 pertic'a-
+rum‚· in casu priore dividatur in duaS, l
+in posteriore in tres partes aequale8‚ δι.
+in isto duo, in hoc tria propugnacula·
+
+super eodem construantur (§.188).
+CoRoLLARIUM.
+
+193· Quodsi Latus internum detur 5
+cum regulare minimum 60 ‚ ad summurn
+84 fit, Propugnacula duo recipiet, fi fuerit
+
+minimum 120 , ad summum 168.S CHO
+
